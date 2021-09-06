@@ -6,8 +6,6 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-#ROOTNAMESPACEBEGIN#
-
 /// <summary>
 /// 
 /// </summary>
@@ -27,4 +25,3 @@ public sealed class #SCRIPTNAME# {
         yield return null;
     }
 }
-#ROOTNAMESPACEEND#
